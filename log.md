@@ -2,7 +2,7 @@
 
 ### Day 1: October 4, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Working through Treehouse's CSS Layout Basics course. Achievements/Badges: Controlling Layout with CSS Display Modes, Page Layout with the Float Property, CSS Layout Project
 
 **Thoughts:** 
 
